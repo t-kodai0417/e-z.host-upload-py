@@ -1,4 +1,4 @@
-requestsを使用したe-z.hostに画像を送るためのコード。
+requestsを使用したe-z.hostに画像を送るためのコード。<br>
 使用例
 ```py
 import ezhost
